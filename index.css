@@ -47,3 +47,16 @@ a:hover{
     color: blueviolet;
     transform: .4ms;
 }
+
+.footer{
+    background-color: black;
+    height: 300px;
+    width: auto;
+    color: white;
+
+}
+.social-media-links{
+    display: flex;
+    align-content: space-between;
+    gap: 30px;
+}
